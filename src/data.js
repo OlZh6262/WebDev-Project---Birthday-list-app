@@ -21,8 +21,8 @@ export default [
     id: 3,
     name: 'Vladyslav Omelchenko',
     age: 18,
-    date: 28,
-    month: 'May',
+    date: 23,
+    month: 'September',
     image:
       'https://res.cloudinary.com/dij2i9gth/image/upload/v1660328213/Birthday-reminder/photo_2022-06-04_19-58-33_tysbze.jpg',
   },
