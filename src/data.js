@@ -30,7 +30,7 @@ export default [
     id: 4,
     name: 'Mykola Nosov',
     age: 20,
-    date: 28,
+    date: 22,
     month: 'May',
     image:
       'https://res.cloudinary.com/dij2i9gth/image/upload/v1660328573/Birthday-reminder/photo_2022-05-28_22-21-01_c8equt.jpg',
